@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+/*menù*/
+ul {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(240, 205, 11);
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Staatliches', cursive;
+  }
+
+  li a:hover {
+    background-color: white;
+  }
+  
+/*titolo*/
+h1 {
+    text-align: center;
+    margin-top: 4%;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 50px;
+}
+
+body {
+    background-image: url("sfondo.jpg");
+}
+
+#info {
+    box-sizing: border-box;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.box {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.tit {
+    margin-left: 3%;
+    font-size: 30px;
+}
+
+.cod {
+  text-align: center;
+  font-size: 25px;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  margin-left: 3%;
+}
+
+h3 {
+  margin-left: 3%;
+}
+
+h4 {
+  text-align: center;
+  font-size: 25px;
+}
+
+img {
+  margin-left: 15%;
+}
+
+.codifica {
+  box-sizing: border-box;
+  margin-left: 16%;
+  margin-right: 16%;
+  border-color: black;
+  background-color: white;
+}
+
+.sez1{
+  margin-left:70%;
+}
+
+.info {
+  margin-top: 5%;
+}
+
+.msg {
+  margin-top: -15%;
+}
+
+.ind{
+  margin-left: 70%;
+}
+
+.n {
+  margin-left: 80%;
+  margin-bottom: 20%;
+}
+
+.nomi {
+  text-align:center;
+}
